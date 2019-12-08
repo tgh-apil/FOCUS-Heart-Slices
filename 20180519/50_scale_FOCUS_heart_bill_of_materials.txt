@@ -1,0 +1,11 @@
+Bill of Materials
+
+- Printing filament: Polylite from AlephObjects (https://www.lulzbot.com/store/filament/polylite-pla)
+
+- Apical Four Chamber: 4 * 1/8" x 1/8" n50 Rod Magnets from Lee Valley Tools (http://www.leevalley.com/en/wood/page.aspx?p=40076&cat=1,42363,42348)
+
+- Parasternal Long Axis: 4 * 1/8" x 1/8" n50 Rod Magnets (http://www.leevalley.com/en/wood/page.aspx?p=40076&cat=1,42363,42348)
+
+- Parasternal Short Axis: 17 * 1/8" x 1/8" n50 Rod Magnets (http://www.leevalley.com/en/wood/page.aspx?p=40076&cat=1,42363,42348)
+
+- Adhesive for magnets: Gorilla Glue (http://www.canadiantire.ca/en/pdp/gorilla-glue-super-glue-adhesive-0670301p.html#srp) 
